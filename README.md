@@ -6,8 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgiri7240&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgiri7240" /> </p>
 
-- 🔭 I’m currently worked on Match-Pix **Match-Pix Therapist App**
+- 🌱Flutter enthusiast.
 
+🔭 Currently working at @Match-Pix.
 - 👯 I’m looking to collaborate on [My Portfolio](https://drive.google.com/file/d/1h7uGDt1R_PqgKcJifjIrcF6LbGc1HI4T/view?usp=sharing)
 
 - 🤝 I’m looking for help with [College Project](https://github.com/MohitGiri7240/PLACEMENT-MANAGEMENT-CELL)

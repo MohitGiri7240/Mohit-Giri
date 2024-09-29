@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Mobile App Developer from Indore Madhya Pradesh, India</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/a96b7af1-f2ed-4af7-a3f1-689ae7475432)"
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgiri7240&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgiri7240" /> </p>
 

@@ -8,7 +8,7 @@
 
 - 🌱Flutter enthusiast.
 
-🔭 Currently working at @Match-Pix.
+- 🔭 Currently working at @Match-Pix.
 - 👯 I’m looking to collaborate on [My Portfolio](https://drive.google.com/file/d/1h7uGDt1R_PqgKcJifjIrcF6LbGc1HI4T/view?usp=sharing)
 
 - 🤝 I’m looking for help with [College Project](https://github.com/MohitGiri7240/PLACEMENT-MANAGEMENT-CELL)

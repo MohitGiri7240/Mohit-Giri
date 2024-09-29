@@ -1,14 +1,16 @@
-# Mohit-Giri
+
 <h1 align="center">Hi 👋, I'm Mohit Giri</h1>
 <h3 align="center">A passionate Mobile App Developer from Indore Madhya Pradesh, India</h3>
 
-- 🔭 I’m currently worked on Match-Pix **Match-Pix Therapist App**
+- 🌱Flutter enthusiast.
+- 🔭 Currently working at @Match-Pix.
 
 - 👯 I’m looking to collaborate on [My Portfolio](https://drive.google.com/file/d/1h7uGDt1R_PqgKcJifjIrcF6LbGc1HI4T/view?usp=sharing)
 
 - 🤝 I’m looking for help with [College Project](https://github.com/MohitGiri7240/PLACEMENT-MANAGEMENT-CELL)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohitGiri7240](https://github.com/MohitGiri7240)
+- 📝 Problem Solving at [Profiles](1. GeeksforGeeks 2. LeetCode 3. HackerRank 4. CodeChef)
 
 - 💬 Ask me about **** Flutter(Mobile App Development), Web Development, Java Programming, Data Structure & Algorithms****
 

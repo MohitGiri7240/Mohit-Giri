@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Giri</h1>
 <h3 align="center">A passionate Mobile App Developer from Indore Madhya Pradesh, India</h3>
 
-<img align = "right" alt = "coding" width = "400" src=![image](https://github.com/user-attachments/assets/3737a23f-1a79-4c6f-9356-1c43cc741b86)
- >
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgiri7240&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgiri7240" /> </p>
 
